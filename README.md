@@ -1,2 +1,3 @@
 # Learningplaywrightbasics
 PlaywrightBasics
+Javascript Basics
