@@ -1,4 +1,4 @@
 # Learningplaywrightbasics
 PlaywrightBasics
 <br>
-Javascript Basics
+Javascript Basics learning
